@@ -10,7 +10,7 @@ Scrapes 1,000 books from [books.toscrape.com](https://books.toscrape.com), store
 
 ```
 books-dashboard/
-├── scraper/                  # BeautifulSoup scrapers (Day 1 & Day 2)
+├── scraper/                  # BeautifulSoup scrapers 
 │   ├── scrape_books.py       # Single-page scraper
 │   └── scrape_all_books.py   # Full 50-page scraper → all_books.csv
 │
